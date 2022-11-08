@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul-azeez, a problem solver.
-- 👀 I’m interested in backend development (Java).
-- 💞️ I’m looking to collaborate on Java open projects and internships.
+- 👀 I’m interested in responsive and scalable apps in Java.
+- 💞️ I’m looking to collaborate on Enterprise Java apps, open source projects and internships.
 - 📫 How to reach me ajiferuke.a@gmail.com
 
 <!---
